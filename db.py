@@ -9,5 +9,5 @@ client = MongoClient(MONGO_URL)
 # Connect to your new database
 db = client["book_search_db"]
 
-# Create / use collection
+# Create collection
 books_collection = db["reading_list"]

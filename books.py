@@ -5,7 +5,7 @@ sample_books = [
   "title": "The Originals: Oliver Twist",
   "author":"Charles Dickens",
   "published_date": "July 5, 2018",
-  "user_status": "Reading"
+  "user_status": "reading"
 },
 {
   "title": "The Mountain Is You",
@@ -17,13 +17,13 @@ sample_books = [
   "title": "Think and Grow Rich",
   "author":"Napoleon Hill",
   "published_date": "October 12, 2020",
-  "user_status": "Reading"
+  "user_status": "reading"
 },
 {
   "title": "Exactly What to Say",
   "author":"Phil M. Jones",
   "published_date": "July 26, 2017",
-  "user_status": "Reading"
+  "user_status": "reading"
 },
 {"title": "Words that Change Minds",
   "author":"Shelle Rose Charvet",
@@ -34,7 +34,7 @@ sample_books = [
   "title": "Win Your Inner Battles",
   "author":"Darius Foroux",
   "published_date": "December 19, 2016",
-  "user_status": "Reading"
+  "user_status": "reading"
 }                         
 ]
 
